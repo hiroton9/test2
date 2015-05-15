@@ -1,2 +1,3 @@
 fairu 7を追加
 sarani 修正
+new_branch2からsarani 修正
